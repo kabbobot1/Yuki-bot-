@@ -1,7 +1,137 @@
-....
-
-
-        𝐚dd 𝐲𝐨𝐮𝐫 𝐜𝟑𝐜 𝐅𝐛𝐬𝐭𝐚𝐭𝐞 𝐜𝐨𝐨𝐤𝐢𝐞 🍪
-
-
-.....
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261588713707162%22%3A%226AZRH40N%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "datr",
+        "value": "Xa77aV58IzSJNI9iF0kqVNsP",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "sb",
+        "value": "Xa77aRNN0d97WeN3F9iX0qku",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x873",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61588713707162",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "xs",
+        "value": "39%3AJlz8iXvvNOWpzg%3A2%3A1778102054%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "oo",
+        "value": "v1%7C3%3A1778102057",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "locale",
+        "value": "bn_IN",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "pas",
+        "value": "61588713707162%3Ax6I5YZ4nbH",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3158%3Btimestamp%3A1778102061",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100618824%3BT%3A29635034",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B733x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-05-06T21:26:09.815Z",
+        "lastAccessed": "2026-05-06T21:26:09.815Z"
+    }
+]
